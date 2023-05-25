@@ -293,104 +293,87 @@ based on the requirements of this and other related SOPs and the
 nature of the medical device being developed. The following
 activities, at a minimum, **shall** be performed:
 
-##### Identify Specific Patient and Clinician (user) Needs
+- **Identify Specific Patient and Clinician (user) Needs**: Specific patient and clinician (user) needs to be met by this medical device are identified and documented in or referenced by the Project Plan.
 
-Specific patient and clinician (user) needs to be met by this medical device 
-are identified and documented in or referenced by the Project Plan.
-
-##### Create Statement of Intended Use
-
-The statement of Intended Use **shall** be developed and documented in
+- **Create Statement of Intended Use **: The statement of Intended Use **shall** be developed and documented in
 or referenced by the Project Plan. The intended use of the product and
 user requirements are derived from clinician input and studies,
 patient needs, feasibility studies, previous similar product design
 requirements and feedback and other appropriate sources.
 
-##### Identify Relevant Regulations, Guidance and Standards
-
+- **Identify Relevant Regulations, Guidance and Standards**: 
 Relevant regulations, guidance documents and standards required for
 compliance **shall** be identified and included in the Project Plan.
 Relevant __NewCorp__ SOPs are also referenced in the Project Plan.
 
-##### Identify Project Stakeholders
-
-Key project stakeholders are identified. At a minimum, the
+- **Identify Project Stakeholders**: Key project stakeholders are identified. At a minimum, the
 stakeholders **shall** include representatives from the following
 functional areas:
-  - Development
-  - Regulatory/Quality Assurance (RA/QA)
-  - Executive Management
+  -   Development
+  -   Regulatory/Quality Assurance (RA/QA)
+  -   Executive Management
 The roles and responsibilities of the project stakeholders **shall**
 be clearly defined in the Project Plan.
 
-##### Create Product Requirements Specification (PRS)
-
+- **Create Product Requirements Specification (PRS)**: 
 A Product Requirements Specification (PRS) **shall** be created for
 new medical devices. The PRS defines intended use, clinical
 requirements, patient needs and overall system requirements at a high
 level. A review of the PRS **shall** be performed in accordance with
 the Design Review Procedure, [SOP-007](SOP-007--Design_Review.md).
 
-A Product Requirements Specification (PRS) is a mandatory document
-that **shall** be prepared for all new medical device development
-projects. The PRS is optional for updates to previously developed
-medical devices.
+    A Product Requirements Specification (PRS) is a mandatory document
+    that **shall** be prepared for all new medical device development
+    projects. The PRS is optional for updates to previously developed
+    medical devices.
     
-The Project Manager oversees development of the PRS based on:
+    The Project Manager oversees development of the PRS based on:
     
-- Research activities, concept documents, feasibility studies and other similar sources
-- The statement of intended use and indications for use (IFU)
-- Clinician and patient requirements
-- Information from the initial risk assessment
+    -   Research activities, concept documents, feasibility studies and
+        other similar sources
+    -   The statement of intended use and indications for use (IFU)
+    -   Clinician and patient requirements
+    -   Information from the initial risk assessment
     
-The PRS includes functional, performance, cyber-security, safety and
-regulatory requirements and any other requirements needed to fulfill
-the intended use and meet user and patient needs. An outline of a
-typical PRS is included in Appendix B.
+    The PRS includes functional, performance, cyber-security, safety and
+    regulatory requirements and any other requirements needed to fulfill
+    the intended use and meet user and patient needs. An outline of a
+    typical PRS is included in Appendix B.
 
-##### Create Design History File (DHF) and Risk Management File (RMF)
-
+- **Create Design History File (DHF) and Risk Management File (RMF)**:
 The Project Manager **shall** establish the DHF as the repository for
 all project documents and records (see Section 5 for examples of
 records to be filed in the DHF). The Project Manager **shall** also establish the RMF as the repository
 for all project risk management records and documents. (Refer to Risk
 Management [SOP-008](SOP-008--Document_and_Record_Control.md) for details).
 
-##### Determine project communication mechanisms**: 
+- **Determine project communication mechanisms**: Project communication 
+mechanisms enable the project team to share technical information.
 
-Project communication mechanisms enable the project team to share technical information.
-
-##### Identify specific work products 
-
-Identify deliverables and work products associated with the software
+- **Identify specific work products**: Identify deliverables and work products associated with the software
 development activities and tasks. Refer to Software Development
 Procedure, [SOP-012](SOP-012--Software_Development.md).
 
-##### Define Project Change Control Process 
+- **Define Project Change Control Process**: The Project Plan **shall** define a basic change control process to be used by the project team. This process defines a mechanism for
+controlling changes to the design during the entire product
+development life cycle. A typical change control process would require
+all documents be placed under revision control and require a minimum
+of three signatures for approval – including author, RA/QA Reviewer
+and Management Approval.
 
-The Project Plan **shall** define a basic change control process to be used by
-the project team. This process defines a mechanism for controlling changes to
-the design during the entire product development life cycle. A typical change
-control process would require all documents be placed under revision control and
-require a minimum of three signatures for approval – including author, RA/QA
-Reviewer and Management Approval.
+- **Determine Project Staffing, Requisite Skills, and Training Needs**: Given 
+the nature of the development work, the Project Manager identifies the project staffing needs as well as requisite skills needed for anticipated software development work. Based on staffing
+requirements and skills, the Project Manager identifies qualified
+individuals to work on the project. In addition, any training needs are identified. All members of the
+development team (including third parties) **shall** have basic
+training in FDA regulations for developing medical devices as well as
+training on the specific SOPs and WIs that apply to the project.
+Training records **shall** be maintained for each project team member.
 
-##### Determine Project Staffing, Requisite Skills, and Training Needs
-
-Given  the nature of the development work, the Project Manager identifies the
-project staffing needs as well as requisite skills needed for anticipated
-software development work. Based on staffing requirements and skills, the
-Project Manager identifies qualified individuals to work on the project. In
-addition, any training needs are identified. All members of the development team
-(including third parties) **shall** have basic training in FDA regulations for
-developing medical devices as well as training on the specific SOPs and WIs that
-apply to the project. Training records **shall** be maintained for each project team member.
-
-##### Create a Functional Organization Chart
-
-The Project Plan includes a functional organization chart that identifies the
-interfaces between different project groups (including Contract Engineering
-firms) that provide or result in input to the design and development process.
+- **Create a Functional Organization Chart**: The Project Plan includes a functional organization chart that
+identifies the interfaces between different project groups (including
+Contract Engineering firms) that provide or result in input to the
+design and development process.
 
 - **Prepare Initial Project Plan**: An initial Project Plan is prepared that outlines the required
 activities and the documents and records that need to be created. The
@@ -451,32 +434,23 @@ the Software Development Procedure, [SOP-012](SOP-012--Software_Development.md).
 #### 4.3.1 Activities
 
 In addition to the activities described in the Software Development
-Procedure, [SOP-012](SOP-012--Software_Development.md), the following additional
-activities, at a minimum, **shall** be performed:
+Procedure, [SOP-012](SOP-012--Software_Development.md), the following additional activities, at a minimum,
+**shall** be performed:
 
-##### Define Computer System Requirements
-
-Computer system requirements define the minimum system requirements
+- **Define Computer System Requirements**: Computer system requirements define the minimum system requirements
 (including operating system, memory, CPU speed, video capabilities,
 etc.) for the general-purpose computing platform the __NewCorp__
 software-only medical device is installed on. These requirements are
 documented in the Project Plan and filed in the DHF.
 
-##### Create the initial Risk Management Plan (RMP) 
+- **Create the initial Risk Management Plan (RMP)**: The Project Manager works with the project team to create a Risk
+Management Plan that is consistent with the Risk Management Procedure,
+[SOP-006](SOP-006--Risk_Management.md). A Design Review of the Risk Management Plan **shall** be held
+in accordance with the Design Review Procedure, [SOP-007](SOP-007--Design_Review.md).
 
-The Project Manager works with the project team to create a Risk Management Plan
-that is consistent with the Risk Management Procedure, 
-[SOP-006](SOP-006--Risk_Management.md). A Design Review of the Risk Management
-Plan **shall** be held in accordance with the Design Review Procedure,
-[SOP-007](SOP-007--Design_Review.md).
+- **Perform Initial Risk Assessment**: Perform an initial risk assessment as required by the RMP.
 
-##### Perform Initial Risk Assessment
-
-Perform an initial risk assessment as required by the RMP.
-
-##### Plan Formative Usability Study
-
-A formative usability study is planned. The objective of this study is
+- **Plan Formative Usability Study**: A formative usability study is planned. The objective of this study is
 to determine early on if the proposed device and user interface are
 safe and effective when used in a clinical setting. A Formative
 Usability Protocol is prepared based on FDA Guidance (Applying Human
@@ -484,14 +458,12 @@ Factors and Usability Engineering to Medical Devices, February 2016).
 A Design Review of the Formative Usability Plan **shall** be held in
 accordance with the Design Review Procedure, [SOP-007](SOP-007--Design_Review.md).
 
-##### Plan Requirements Traceability 
-
-Every SRS requirement **shall** be traceable to a source document such
+- **Plan Requirements Traceability**: Every SRS requirement **shall** be traceable to a source document such
 as the PRS, specific risk mitigations or other sources. A Requirement
 Traceability Matrix (RTM) is created and maintained by the Project
 Manager. The RTM is periodically updated as the project evolves.
 
-##### Update and review previously approved work products, as appropriate
+- **Update and review previously approved work products, as appropriate**
 
 #### 4.3.2 Activities, Work Products and Records
 
@@ -568,53 +540,59 @@ Procedure, [SOP-012](SOP-012--Software_Development.md).
 #### 4.4.1 Activities
 
 In addition to the activities described in the Software Development
-Procedure, [SOP-012](SOP-012--Software_Development.md), the following additional
-activities, at a minimum, **shall** be performed:
+Procedure, [SOP-012](SOP-012--Software_Development.md), the following additional activities, at a minimum,
+**shall** be performed:
 
-##### Create the initial DMR and BOM
+-   **Create the initial DMR and BOM**: The Project Manager creates the initial DMR and BOM. Typical contents
+of the DMR includes:
+  -   PRS, SRS, SAD and SDDs
+  -   Software Validation Procedure and Report
+  -   Media replication and installation procedures
+  -   Packaging and Labeling Specifications
+  -   Installation and Update Procedures
 
-The Project Manager creates the initial DMR and BOM. Typical contents of the DMR
-includes:
-- PRS, SRS, SAD and SDDs
-- Software Validation Procedure and Report
-- Media replication and installation procedures
-- Packaging and Labeling Specifications
-- Installation and Update Procedures
+- **Create prototypes of critical components and assess initial usability**: 
+Prototypes of critical components are created for the purpose of performing the required Formative Usability Study
 
-##### Create prototypes of critical components and assess initial usability 
-Prototypes of critical components are created for the purpose of performing the 
-required Formative Usability Study
-
-##### Prepare Initial Labeling, Packaging and User Manual 
-
-The initial labeling and User Manual are developed. Labeling includes physical
-labels that are applied to the medical devices as well as information presented
-to users of the medical device through a user interface. The User Manual
-provided with the medical device provides information on proper operation,
-interpretation of messages, etc. Applicable regulatory requirements for labeling
-are referenced in the Project Plan.
+- **Prepare Initial Labeling, Packaging and User Manual**: The initial labeling and User Manual are developed. Labeling includes physical labels that are applied to the medical devices as well as
+information presented to users of the medical device through a user
+interface. The User Manual provided with the medical device provides
+information on proper operation, interpretation of messages, etc.
+Applicable regulatory requirements for labeling are referenced in the
+Project Plan.
 
 Product packaging is intended to clearly identify the medical device
 and all relevant information regarding the medical device.
 
-- The PRS **shall** contain requirements for packaging and labeling that ensure that device packaging and shipping containers are designed and constructed to protect the device from alteration or damage during normal processing, storage, handling, and distribution.
+-   The PRS **shall** contain requirements for packaging and labeling
+    that ensure that device packaging and shipping containers are
+    designed and constructed to protect the device from alteration or
+    damage during normal processing, storage, handling,
+    and distribution.
 
-- Labeling integrity is validated to ensure that labels will remain in place and are legible under normal operating and use conditions.
+-   Labeling integrity is validated to ensure that labels will remain in
+    place and are legible under normal operating and use conditions.
 
-- Labeling and packaging artwork is validated by having someone not familiar with the product operate it exactly according to labels and instructions.
+-   Labeling and packaging artwork is validated by having someone not
+    familiar with the product operate it exactly according to labels
+    and instructions.
 
-- Labeling and packaging designs are transferred into labeling and packaging specific documents and are included in the DMR as part of Design Transfer.
+-   Labeling and packaging designs are transferred into labeling and
+    packaging specific documents and are included in the DMR as part of
+    Design Transfer.
 
-- All labeling requires approval of the __NewCorp__ RA/QA Representative, who reviews the labeling to ensure that all regulatory and certification issues have been considered and are properly addressed.
+-   All labeling requires approval of the __NewCorp__ RA/QA
+    Representative, who reviews the labeling to ensure that all
+    regulatory and certification issues have been considered and are
+    properly addressed.
 
-##### Update previously approved documents, as needed
+-   **Update previously approved documents, as needed**
 
 #### 4.4.2 Activities, Work Products and Records
 
 The Software Architecture and Design Phase results in work products
-and records shown in the Software Development Procedure,
-[SOP-012](SOP-012--Software_Development.md). The following additional work
-products and records are also created:
+and records shown in the Software Development Procedure, [SOP-012](SOP-012--Software_Development.md). The
+following additional work products and records are also created:
 
 <table>
 <thead>
@@ -672,12 +650,10 @@ documented procedure.
 #### 4.5.1 Activities
 
 In addition to the activities described in the Software Development
-Procedure, [SOP-012](SOP-012--Software_Development.md), the following additional
-activities, at a minimum, **shall** be performed:
+Procedure, [SOP-012](SOP-012--Software_Development.md), the following additional activities, at a minimum,
+**shall** be performed:
 
-##### Prepare Software Validation Plan
-
-The Software Validation Team is primarily responsible for performing
+- **Prepare Software Validation Plan**: The Software Validation Team is primarily responsible for performing
 the Software Validation activities. This team is comprised of people
 not involved in software development activities and who have received
 training in software validation tasks. The Validation Team prepares
@@ -685,62 +661,60 @@ the Software Validation Plan that defines the approach, resources, and
 other relevant information required for the Validation Activity. The
 Software Validation Plan includes:
 
-- Identification of the software being validated by reference to version number and one or more product documents (such as the PRS and SRS, for example).
+  -   Identification of the software being validated by reference to
+    version number and one or more product documents (such as the PRS
+    and SRS, for example).
 
-- Defined user needs and intended use as defined in the Project Plan.
+  -   Defined user needs and intended use as defined in the Project Plan.
 
-- Validation approach and sources for acceptance criteria (SRS and PRS)
+  -   Validation approach and sources for acceptance criteria (SRS
+    and PRS)
 
-- At least one validation test activity that includes testing of the system by actual users under actual or simulated use conditions.
+  -   At least one validation test activity that includes testing of the
+    system by actual users under actual or simulated use conditions.
 
-- At least one review of the project Risk Management File, as per the Risk Management Plan. (Refer to Risk Management Procedure, [SOP-006](SOP-006--Risk_Management.md))
+  -   At least one review of the project Risk Management File, as per the
+    Risk Management Plan. (Refer to Risk Management
+    Procedure, [SOP-006](SOP-006--Risk_Management.md))
 
-##### Prepare Validation Protocols
+- **Prepare Validation Protocols**: Validation Protocols are prepared in advance to support the Validation
+Phase. The Software Validation Team creates these protocols. Each Validation Protocol defines all of the details associated with
+that activity. These details **shall** include, at a minimum:
+  -   Identification of the specific requirements that are the focus of
+      system validation (e.g., SRS, PRS)
 
-Validation Protocols are prepared in advance to support the Validation Phase.
-The Software Validation Team creates these protocols. Each Validation Protocol
-defines all of the details associated with that activity. These details
-**shall** include, at a minimum:
- 
-- Identification of the specific requirements that are the focus of system validation (e.g., SRS, PRS)
+  -   Environment in which validation is to be performed (e.g., actual or
+      simulated use conditions)
 
-- Environment in which validation is to be performed (e.g., actual or simulated use conditions)
+  -   Resources required – including people, equipment and other supplies
+      as appropriate.
 
-- Resources required – including people, equipment and other supplies as appropriate.
+  -   Actual test cases, including specific test steps and
+      expected results. An example of a test case is shown in
+      Appendix C.
+Validation protocols shall be reviewed and approved prior to executing
+those protocols.
 
-- Actual test cases, including specific test steps and expected results. An example of a test case is shown in Appendix C.
-Validation protocols shall be reviewed and approved prior to executing those protocols.
-
-##### Create Software Installation Procedure
-
-A Software Installation Procedure is prepared that defines the process
+- **Create Software Installation Procedure**: A Software Installation Procedure is prepared that defines the process
 for installing the medical device on computer systems that meet the
 minimum configuration requirements defined in the Project Plan.
 
-##### Prepare Initial Production Units
-
-Computer systems that meet the defined minimum specifications as
+- **Prepare Initial Production Units**: Computer systems that meet the defined minimum specifications as
 defined in the Project Plan are configured with the medical device
 software in preparation for the validation activity. This
 configuration is performed according to documented procedures.
 
-##### Identify required documents and records for regulatory submission
-
-A 510(k) Checklist is created to identify all required documents and
+- **Identify required documents and records for regulatory submission**: A 510(k) Checklist is created to identify all required documents and
 records needed for the 510(k) submission. Items on the checklist are
 collected and reviewed for completeness.
 
-##### Update Risk Assessment based on new information
-
-Risk Assessment is updated based on new information and reflected in
+- **Update Risk Assessment based on new information**: Risk Assessment is updated based on new information and reflected in
 the Risk Management records, as described in the RMP.
 
-##### Update product labeling and user manual
-
-The product labeling and User Manual information is updated based on
+- **Update product labeling and user manual**: The product labeling and User Manual information is updated based on
 new information and filed in the DHF.
 
-##### Update previously approved documents, as appropriate
+- **Update previously approved documents, as appropriate**
 
 #### 4.5.2 Activities, Work Products and Records
 
