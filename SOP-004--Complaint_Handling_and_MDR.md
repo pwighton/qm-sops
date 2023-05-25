@@ -124,7 +124,7 @@ Affairs and that reasonably suggests that a device:
     impairment of a body function or permanent damage to a
     body structure.
 
-## 3.3 Acronyms
+## 3.5 Acronyms
 ------------
 
 - **CAPA**: Corrective Action / Preventive Action
@@ -196,6 +196,7 @@ The types of complaints are covered by this procedure include:
 The complaint process is shown in the figure below.
 
 > ![](media/sop-004--fig1.png "")
+
 > Figure 1 – The complaint process
 
 The __NewCorp__ QA Representative **shall** be the designated unit
@@ -645,13 +646,11 @@ MDR files must contain:
 -   references to any other relevant documents or information used
     during assessment.
 
-APPENDIX A COMPLAINT FORM
-=========================
+# APPENDIX A COMPLAINT FORM
 
 TBD
 
-APPENDIX B SUMMARY OF REPORTING REQUIREMENTS
-============================================
+# APPENDIX B SUMMARY OF REPORTING REQUIREMENTS
 
 Reporting timeframes for 5, 10, and 30-day reports start the day after
 the **aware date**. Report is to be sent within the time specified

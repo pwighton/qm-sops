@@ -88,36 +88,36 @@ aspects of the __NewCorp__  Quality Management System, including:
 ## 3.3 Terms
 ---------
 
-Audit A systematic and independent examination to determine whether
+- **Audit**: A systematic and independent examination to determine whether
 quality activities and related results comply with planned
 arrangements and whether these arrangements are implemented
 effectively and are suitable to achieve objectives.
 
-Audit observation A statement of fact made during an audit that is
+- **Audit**: observation A statement of fact made during an audit that is
 substantiated by objective evidence.
 
-Auditee The organization or project that is the subject of an audit.
+- **Auditee**: The organization or project that is the subject of an audit.
 
-Auditor A person with relevant qualifications and competence to
+- **Auditor**: A person with relevant qualifications and competence to
 perform audits and who is part of or is authorized by __NewCorp__ .
 
-Design History File The design history file (DHF) contains or
+- **Design History File**: The design history file (DHF) contains or
 references the documentation necessary to demonstrate that the design
 was developed in accordance with the approved design plan and
 associated procedures.
 
-Device Master Record The device master record (DMR) is a compilation
+- **Device Master Record**: The device master record (DMR) is a compilation
 of records containing the procedures and specifications for a finished
 device.
 
-Lead Auditor A person who has participated in several internal audits
+- **Lead Auditor**: A person who has participated in several internal audits
 and who is designated to plan and execute an audit by themself or with
 additional auditors.
 
-Nonconformity The nonfulfillment of specified requirements with the
+- **Nonconformity**: The nonfulfillment of specified requirements with the
 planned arrangements. Synonymous with noncompliance, deficiency.
 
-Objective evidence Verifiable information or records pertaining to the
+- **Objective evidence**: Verifiable information or records pertaining to the
 quality of an item or service or to the existence and implementation
 of a quality system element, which is based on visual observation,
 measurement or test.
@@ -329,7 +329,7 @@ The audit process is shown below.
 
 > ![](media/sop-005--fig1.png "")
 
-> Figure 1 – Supplier Evaluation Process
+> Figure 1 – The audit process
 
 <embed src="media/image1.emf" width="303" height="478" />
 
