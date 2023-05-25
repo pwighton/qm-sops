@@ -1165,7 +1165,7 @@ The record retention period for Project Records **shall** be defined
 in the Document and Records Control Procedure, [SOP-008](SOP-008--Document_and_Record_Control.md).
 
 ## Appendix A Project Plan Outline 
-============================================
+-----------------------------------------------------------------------
 
 At a minimum, the following topics **shall** be included or referenced
 in the Project Plan
@@ -1228,12 +1228,12 @@ task not included must be justified.  For each software development phase:
     DHF
 
 Appendix B Product Requirements Spec Outline
-============================================
+-----------------------------------------------------------------------
 
 TBD
 
 Appendix C Example Validation Test Case
-=======================================
+-----------------------------------------------------------------------
 
 <table>
 <thead>
