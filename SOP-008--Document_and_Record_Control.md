@@ -1,7 +1,6 @@
 # __NewCorp__ Quality Manual
 ## Document and Records Control Procedure
 ## SOP-008
-===================================================================
 
 # 1.0 PURPOSE
 

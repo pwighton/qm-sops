@@ -312,7 +312,7 @@ The goal of the validation process is to create objective evidence (usually in t
 
 > ![](media/sop-009--fig2.png "")
 
-> Figure 1 – Design Validation
+> Figure 2 – Design Validation
 
 Validation activities are performed upon completion of the product development process. In addition, people other than those involved in product development activities perform validation activities. All validation activities are performed on “initial production units” - hardware that has been manufactured in accordance with approved manufacturing procedures.
 

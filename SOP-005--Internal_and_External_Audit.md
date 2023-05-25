@@ -947,7 +947,6 @@ Management
 
  
 ## Appendix B Example Internal Audit Report
-========================================
 
 The following is an example of an internal audit report:
 

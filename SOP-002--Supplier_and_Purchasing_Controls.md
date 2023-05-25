@@ -1,7 +1,6 @@
 # __NewCorp__ Quality Manual
 ## Supplier and Purchasing Control Procedure
 ## SOP-002
------------------------------------------------------------------------
 
 # 1.0 PURPOSE
 

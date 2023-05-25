@@ -61,54 +61,54 @@ This procedure does not apply to research activities.
 
 ## 3.3 Terms
 
-Design History File The design history file (DHF) contains or references
+- **Design History File**: The design history file (DHF) contains or references
 the documentation necessary to demonstrate that the design was developed
 in accordance with the approved design plan and associated procedures.
 
-Harm Physical injury or damage to the health of people, or damage to
+- **Harm**: Physical injury or damage to the health of people, or damage to
 property or the environment.
 
-Hazard Potential source of harm
+- **Hazard**: Potential source of harm
 
-Occurrence Occurrence is the probability or likelihood of an event
+- **Occurrence**: Occurrence is the probability or likelihood of an event
 occurring.
 
-Residual risk Risk remaining after risk control measures have been
+- **Residual risk**: Risk remaining after risk control measures have been
 taken.
 
-Risk The combination of the probability of occurrence of harm and the
+- **Risk**: The combination of the probability of occurrence of harm and the
 severity of that harm.
 
-Risk Analysis Systematic use of available information to identify
+- **Risk Analysis**: Systematic use of available information to identify
 hazards and to estimate the risk.
 
-Risk Assessment Overall process comprising risk analysis and risk
+- **Risk Assessment**: Overall process comprising risk analysis and risk
 evaluation.
 
-Risk Control Process in which decisions are made and measures
+- **Risk Control**: Process in which decisions are made and measures
 implemented by which risks are reduced to, or maintained within
 specified levels
 
-Risk Evaluation Process of comparing the estimated risk against given
+- **Risk Evaluation**: Process of comparing the estimated risk against given
 risk criteria to determine the acceptability of the risk
 
-Risk Management Systematic application of management policies,
+- **Risk Management**: Systematic application of management policies,
 procedures, and practices to the tasks of analyzing, evaluating,
 controlling and monitoring risk.
 
-RMF A file containing all required records created as part of performing
+- **RMF**: A file containing all required records created as part of performing
 required risk management activities.
 
-Severity Severity is defined as the measure of the possible consequences
+- **Severity**: Severity is defined as the measure of the possible consequences
 of a hazard.
 
-Validation Validation means confirmation by examination and provision of
+- **Validation**: Validation means confirmation by examination and provision of
 objective evidence that the particular requirements for a specific
 intended use can be consistently fulfilled.
 
-Verification Verification means confirmation by examination and
+- **Verification**: Verification means confirmation by examination and
 provision of objective evidence that specified requirements have been
-fulfilled. \[820.3(aa)\]
+fulfilled. ```[820.3(aa)]```
 
 ## 3.3 Acronyms
 
