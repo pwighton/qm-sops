@@ -1,4 +1,4 @@
-# CorticoMetrics Quality Manual
+# __NewCorp__ Quality Manual
 ## Control of Non-conforming Product
 ## SOP-003
 -----------------------------------------------------------------------

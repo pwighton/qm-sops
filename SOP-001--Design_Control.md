@@ -1,4 +1,3 @@
-
 # __NewCorp__ Quality Manual
 ## Design Control Procedure
 ## SOP-001
@@ -68,7 +67,7 @@ SOP does not apply to research activities.
 ### 3.2 __NewCorp__ References 
 ------------------------------
 
-1.  Quality Manual, [QM-001](QualityManual.md)
+1.  Quality Manual, [QM-001](QM-001--QualityManual.md)
 
 2.  Design Review Procedure, [SOP-007](SOP-007--Design_Review.md)
 

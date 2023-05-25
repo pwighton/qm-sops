@@ -153,6 +153,7 @@ project in order to ensure that only qualified, competent suppliers
 are selected. The process is illustrated in the following figure.
 
 > ![](media/sop-002--fig1.png "")
+
 > Figure 1 – Supplier Evaluation Process
 
 Once a supplier is selected, appropriate monitoring controls are
@@ -308,7 +309,7 @@ justify changes to supplier status. Any change in status requires
 documentation, justification and Quality Assurance review and
 approval.
 
-##4.7 Selection of Consultants and Contractors
+## 4.7 Selection of Consultants and Contractors
 ----------------------------------------------
 
 Consultants and contractors include companies and individuals that
